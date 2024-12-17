@@ -1,0 +1,170 @@
+
+*{
+
+    font-family: Montserrat;
+    margin: 0;
+    padding: 0;
+
+}
+.the-spring{
+    text-align: center;
+    color: #666666;
+}
+.give{
+    text-align: center;
+    font-weight: 600;
+}
+
+.starting{
+    background-color: #FFF3E4;
+}
+
+.for-dinning{
+    text-align: center;
+    margin-top: 20px;
+}
+.not-just{
+    text-align: center;
+    margin-top: 150px;
+    font-weight: 600;
+}
+.learn-more{
+    background-color: #BD9354;
+    color: #F2EADE;
+    border-radius: none;
+    font-size: medium;
+}
+.button{
+    text-align: center;
+}
+
+.learn-more:hover{
+    background-color: #745b35;
+    color: white;
+}
+
+.Our-Best-Seller{
+    text-align: center;
+    color: #666666;
+    margin-top: 100px;
+}
+
+.for-dinning{
+    margin-top: 47px;
+    font-weight: 600;
+
+}
+
+.Family-Chair-Set{
+    text-align: center;
+    color: black;
+    font-weight: 600;
+}
+.Sustainable{
+    color: #666666;
+    text-align: center;
+}
+.lawson{
+    color: black;
+    font-size: medium;
+}
+
+.color1{
+    background-color: #F8DAA0;
+    height: 15px;
+    width: 15px;
+    border: 2px solid black;
+}
+.color2{
+    background-color: #000000;
+    height: 15px;
+    width: 15px;
+}
+
+.large{
+    background-color: #BD9354;
+    color: white;
+}
+.large:hover{
+    background-color: #b8a383;
+    color: white;
+}
+/* ************************************************************************************ */
+.next-row{
+    margin-top: 100px;
+}
+
+.dont{
+    text-align: center;
+    color: #666666;
+}
+
+.sale-up{
+    color: black;
+    text-align: center;
+    font-style: 600;
+}
+
+.back{
+    border: none;
+}
+
+.Experts{
+    font-weight: 600; 
+    text-align: center;
+}
+
+.stay{
+    font-weight: bold;
+}
+.Differently {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top:30px;
+    line-height: 1.5em;
+    color: #333;
+    text-align: center;
+    align-items: center;
+}
+
+.Differently_paragraph {
+    font-family: Roboto;
+    font-size: 16px;
+    line-height: 1.5em;
+    font-weight: 400;
+    color: #333;
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+
+
+.icons{
+    margin-top: 50px;
+    font-size: 28px;
+    margin-bottom: 16px;
+    color: #000;
+}
+.members{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #333;
+    margin-top: 10;
+
+}
+
+.decoz {
+    padding-left: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    white-space: nowrap;
+}
+
+.submit{
+    background-color: #BD9354;
+    color: white;
+}
